@@ -1,0 +1,11 @@
+.img_highres {
+  display: none;
+}
+
+#div_whatever1 {
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url(https://wildlingden.com/images/origin-lowres.jpg);
+}
